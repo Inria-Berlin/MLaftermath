@@ -13,4 +13,3 @@ This is for you. Come to the workshop, present your NeurIPS paper, and hear othe
 <br />
 <br />
 
-> Last build date: {{ site.time | date: "%Y-%m-%d" }}.
