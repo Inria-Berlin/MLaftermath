@@ -2,11 +2,15 @@
 title: Home
 ---
 
-# Feb. 11-12, at the Einstein Center for Digital Future
+# February 11-12 2026 in Berlin
 
-You ran around NeurIPS and you still haven't seen all the posters?
-This is your chance. Come to the MLaftermath workshop, present your NeurIPS paper, and hear others present their NeurIPS paper.
+You ran around at NeurIPS 2025? You still haven't seen all the posters?
+
+This is for you. Come to the workshop, present your NeurIPS paper, and hear others present theirs.
+
+<br />
+<br />
+<br />
+<br />
 
 > Last build date: {{ site.time | date: "%Y-%m-%d" }}.
->
-> <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" /></a>
