@@ -3,13 +3,13 @@ title: Contact
 nav: true
 ---
 
-# Contact/Organizers
+# Contact Organizers
 
 Prof. Dr. **Emmanuel Baccelli**: emmanuel.baccelli(at)inria.fr
 
 MSc. **Zhaolan Huang**: zhaolan.huang(at)fu-berlin.de
 
-Prof. Dr. **Guillermo Gallego**: guillermo.gallego@tu-berlin.de 
+Prof. Dr. **Guillermo Gallego**: guillermo.gallego(at)tu-berlin.de 
 
 # Supporters
 
