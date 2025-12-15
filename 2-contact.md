@@ -3,7 +3,7 @@ title: Contact
 nav: true
 ---
 
-# Contact
+# Contact/Organizers
 
 Prof. Dr. **Emmanuel Baccelli**: emmanuel.baccelli(at)inria.fr
 
