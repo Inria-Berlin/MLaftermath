@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Save the date: February 10-12, in Berlin
+# Save the date: March 9-10, in Berlin
 
 You ran around at NeurIPS 2025, desperate to see more posters? This is for you. 
 
