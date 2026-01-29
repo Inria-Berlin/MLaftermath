@@ -12,9 +12,11 @@ Under construction. Sneak peek: some confirmed speakers and tentative talk title
 - **Polysemanticity**, Laura Kopf, Technische Universität Berlin.
 - **Gaussian Platting GANs**, Florian Barthel, Humboldt-Universität zu Berlin.
 - **Rethinking Explanation Evaluation under the Retraining Scheme**, Gerhard Wunder, Freie Universität Berlin.
+- **Additive Models**, Benedict Clark, PTB.
 
 ## March 10th Morning
-Hackathon (t.b.a.)
+- Hands-on tutorial session on TinyML (t.b.a.)
+- Hackathon (t.b.a.)
 
 ## March 10th Afternoon
 - **MLLM Representations**, Hanno Gottschalk, Technische Universität Berlin.
