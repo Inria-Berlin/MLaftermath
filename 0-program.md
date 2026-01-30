@@ -8,7 +8,7 @@ Under construction. Sneak peek: some confirmed speakers and tentative talk title
 
 ## March 9th Afternoon
 - **Fusion-based RAM Optimizations for TinyML**  
-Zhaolan Huang, Freie Universität Berlin / Inria Berlin.
+Zhaolan Huang, Freie Universität Berlin & Inria Berlin.
 - **Learning Depth with Event Cameras (DERD-Net)**  
 Guillermo Gallego, TU Berlin.
 - **Polysemanticity**  
