@@ -23,7 +23,7 @@ Under construction. Sneak peek: some confirmed speakers and tentative talk title
 - **Quadratic Corrections**, Sebastian Pokutta, Zuse-Institut Berlin.
 - **Automatic Differentiation**, Andrea Walther, Humboldt-Universität zu Berlin.
 - **tinyML Multiobjective Optimization for Urban Infrastructure Applications**, Felix Bießmann, Berlin University of Applied Sciences.
-- **IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants**, Vivek Chavan, Fraunhofer IPK.
+- **IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants**, Vivek Chavan, Fraunhofer IPK & TU Berlin.
 
 
 
