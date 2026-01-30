@@ -7,12 +7,18 @@ nav: true
 Under construction. Sneak peek: some confirmed speakers and tentative talk titles below. More to come.. Stay tuned!
 
 ## March 9th Afternoon
-- **Fusion-based RAM Optimizations for TinyML**, Zhaolan Huang, Freie Universität Berlin / Inria Berlin.
-- **Learning Depth with Event Cameras (DERD-Net)**, Guillermo Gallego, TU Berlin.
-- **Polysemanticity**, Laura Kopf, Technische Universität Berlin.
-- **Gaussian Platting GANs**, Florian Barthel, Humboldt-Universität zu Berlin.
-- **Rethinking Explanation Evaluation under the Retraining Scheme**, Gerhard Wunder, Freie Universität Berlin.
-- **Additive Models**, Benedict Clark, PTB.
+- **Fusion-based RAM Optimizations for TinyML**  
+Zhaolan Huang, Freie Universität Berlin / Inria Berlin.
+- **Learning Depth with Event Cameras (DERD-Net)**  
+Guillermo Gallego, TU Berlin.
+- **Polysemanticity**  
+Laura Kopf, Technische Universität Berlin.
+- **Gaussian Platting GANs**  
+Florian Barthel, Humboldt-Universität zu Berlin.
+- **Rethinking Explanation Evaluation under the Retraining Scheme**  
+Gerhard Wunder, Freie Universität Berlin.
+- **Additive Models**  
+Benedict Clark, PTB.
 
 ## March 10th Morning
 - Hands-on tutorial session on TinyML (t.b.a.)
