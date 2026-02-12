@@ -35,6 +35,8 @@ Andrea Walther, Humboldt-Universität zu Berlin.
 Felix Bießmann, Berlin University of Applied Sciences.
 - **IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants**  
 Vivek Chavan, Fraunhofer IPK & TU Berlin.
+- **Low-Rank Training and Low-Rank Adapters**  
+Timon Klein, Otto-von-Guericke-Universität Magdeburg.
 
 
 
