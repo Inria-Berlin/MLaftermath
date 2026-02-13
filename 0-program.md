@@ -4,7 +4,7 @@ nav: true
 ---
 
 # Workshop Program
-Under construction. Sneak peek: some confirmed speakers and tentative talk titles below. More to come.. Stay tuned!
+Confirmed speakers and tentative talk titles are as follows.
 
 ## March 9th 
 
@@ -32,13 +32,9 @@ Benedict Clark, National Metrology Institute (PTB).
 
 17:00 -- Wrap-up
 
-## March 10th Morning
-- Hands-on tutorial session on TinyML (t.b.a.)
-- Hackathon (t.b.a.)
+## March 10th 
 
-## March 10th Afternoon
-
-13:00 -- Welcome  
+10:00 -- Hands-on session (TinyML tutorial t.b.c.)
 
 13:30 -- Session 3  
 
