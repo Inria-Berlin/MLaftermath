@@ -26,7 +26,8 @@ Zhaolan Huang, Freie Universität Berlin & Inria Berlin.
 - **Additive Models**  
 Benedict Clark, National Metrology Institute (PTB).  
 - **Rethinking Explanation Evaluation under the Retraining Scheme**  
-Gerhard Wunder, Freie Universität Berlin.
+Gerhard Wunder, Freie Universität Berlin.  
+
 17:00 -- Wrap-up  
 
 (Rooms are available until 18:00 for further chats & networking)  
