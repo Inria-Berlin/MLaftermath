@@ -42,7 +42,7 @@ Hanno Gottschalk, Technische Universität Berlin.
 - **Quadratic Corrections**  
 Sebastian Pokutta, Zuse-Institut Berlin.
 - **Automatic Differentiation**  
-Andrea Walther, Humboldt-Universität zu Berlin.  
+Tim Siebert, Humboldt-Universität zu Berlin.  
 
 15:00 -- Coffee Break  
 
