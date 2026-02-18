@@ -2,11 +2,9 @@
 title: Home
 ---
 
-# Save the date: March 9-10, in Berlin
+# March 9-10, in Berlin
 
-You ran around at NeurIPS 2025, desperate to see more posters? This is for you. 
-
-Come present your NeurIPS paper, and hear other Berliners present theirs.
+Machine learning has become ubiquitous, as artificial neural networks (large or small) are being deployed on almost all types of machines. The MLaftermath workshop gathers speakers from research institutions from Berlin and its region, who will present and discuss their work in the domain, ranging from applied math to embedded computing, experiments and datasets. As an additional red thread: each speaker will partly base their talk on work they recently published at a top AI conference (namely NeurIPS, December 2025) with a view to foster high-quality, new scientific collaborations -- with an amazingly low-carbon footprint!
 
 <br />
 <br />
