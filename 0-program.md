@@ -27,7 +27,9 @@ Zhaolan Huang, Freie Universität Berlin & Inria Berlin.
 Benedict Clark, National Metrology Institute (PTB).  
 - **Rethinking Explanation Evaluation under the Retraining Scheme**  
 Gerhard Wunder, Freie Universität Berlin.
-17:00 -- Wrap-up
+17:00 -- Wrap-up  
+
+(Rooms are available until 18:00 for further chats & networking)  
 
 ## March 10th 
 
@@ -54,6 +56,8 @@ Vivek Chavan, Fraunhofer IPK & TU Berlin.
 Timon Klein, Otto-von-Guericke-Universität Magdeburg.  
 
 17:00 -- Wrap-up  
+
+(Rooms are available until 18:00 for further chats & networking)  
 
 <br />
 <br />
