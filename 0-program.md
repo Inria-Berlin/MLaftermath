@@ -40,7 +40,7 @@ Gerhard Wunder, Freie Universität Berlin.
 
 - **MLLM Representations**  
 Hanno Gottschalk, Technische Universität Berlin.
-- **Quadratic Corrections**  
+- **Efficient Quadratic Corrections for Frank-Wolfe Algorithms**  
 Sebastian Pokutta, Zuse-Institut Berlin.
 - **Automatic Differentiation**  
 Tim Siebert, Humboldt-Universität zu Berlin.  
