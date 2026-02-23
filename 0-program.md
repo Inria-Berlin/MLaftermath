@@ -10,12 +10,14 @@ Confirmed speakers and tentative talk titles are as follows.
 
 13:00 -- Welcome  
 
+13:25 -- Opening Words  -- Emmanuel Baccelli, on behalf of ECDF
+
 13:30 -- Session 1  
 - **Learning Depth with Event Cameras (DERD-Net)**  
-Guillermo Gallego, TU Berlin.
-- **Gaussian Platting GANs**  
+Guillermo Gallego, TU Berlin & ECDF.
+- **Synthesizing 3D Consistent Human Heads via 3DGS GANs**  
 Florian Barthel, Humboldt-Universität zu Berlin.
-- **Polysemanticity**  
+- **Capturing Polysemanticity with PRISM**  
 Laura Kopf, Technische Universität Berlin.  
 
 15:00 -- Coffee Break  
@@ -23,7 +25,7 @@ Laura Kopf, Technische Universität Berlin.
 15:30 -- Session 2  
 - **Fusion-based RAM Optimizations for TinyML**  
 Zhaolan Huang, Freie Universität Berlin & Inria Berlin.
-- **Additive Models**  
+- **Correcting Misinterpretations of Additive Models**  
 Benedict Clark, National Metrology Institute (PTB).  
 - **Rethinking Explanation Evaluation under the Retraining Scheme**  
 Gerhard Wunder, Freie Universität Berlin.  
@@ -42,7 +44,7 @@ Gerhard Wunder, Freie Universität Berlin.
 Hanno Gottschalk, Technische Universität Berlin.
 - **Efficient Quadratic Corrections for Frank-Wolfe Algorithms**  
 Sebastian Pokutta, Zuse-Institut Berlin.
-- **Automatic Differentiation**  
+- **Collapsing Taylor Mode Automatic Differentiation**  
 Tim Siebert, Humboldt-Universität zu Berlin.  
 
 15:00 -- Coffee Break  
@@ -50,7 +52,7 @@ Tim Siebert, Humboldt-Universität zu Berlin.
 15:30 -- Session 4  
 
 - **tinyML Multiobjective Optimization for Urban Infrastructure Applications**  
-Felix Bießmann, Berlin University of Applied Sciences.
+Felix Bießmann, BHT & ECDF.
 - **IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants**  
 Vivek Chavan, Fraunhofer IPK & TU Berlin.
 - **Low-Rank Training and Low-Rank Adapters**  
