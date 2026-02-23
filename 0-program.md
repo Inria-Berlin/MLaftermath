@@ -40,7 +40,7 @@ Gerhard Wunder, Freie Universität Berlin.
 
 13:30 -- Session 3  
 
-- **MLLM Representations**  
+- **Internal MLLM Representations for Efficient Fine-grained Visual Question Answering**  
 Hanno Gottschalk, Technische Universität Berlin.
 - **Efficient Quadratic Corrections for Frank-Wolfe Algorithms**  
 Sebastian Pokutta, Zuse-Institut Berlin.
