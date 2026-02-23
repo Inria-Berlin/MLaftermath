@@ -8,7 +8,7 @@ Machine learning has become ubiquitous, as artificial neural networks (large or 
 
 <br />
 <br />
-Registration is free but mandatory. [REGISTER HERE](https://www.eventbrite.com/e/mlaftermath-workshop-tickets-1983771144896)
+Registration is free but mandatory: [REGISTER HERE](https://www.eventbrite.com/e/mlaftermath-workshop-tickets-1983771144896).
 <br />
 <br />
 <br />
