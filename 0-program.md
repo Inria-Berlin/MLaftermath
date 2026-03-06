@@ -40,12 +40,12 @@ Gerhard Wunder, Freie Universität Berlin.
 
 13:30 -- Session 3  
 
-- **Internal MLLM Representations for Efficient Fine-grained Visual Question Answering**  
-Hanno Gottschalk, Technische Universität Berlin.
 - **Efficient Quadratic Corrections for Frank-Wolfe Algorithms**  
 Sebastian Pokutta, Zuse-Institut Berlin.
 - **Collapsing Taylor Mode Automatic Differentiation**  
 Tim Siebert, Humboldt-Universität zu Berlin.  
+- **Internal MLLM Representations for Efficient Fine-grained Visual Question Answering**  
+Hanno Gottschalk, Technische Universität Berlin.
 
 15:00 -- Coffee Break  
 
