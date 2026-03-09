@@ -10,7 +10,7 @@ Confirmed speakers and tentative talk titles are as follows.
 
 13:00 -- Welcome  
 
-13:25 -- Opening Words  -- Emmanuel Baccelli, on behalf of ECDF
+13:25 -- Opening Words  -- Emmanuel Baccelli, on behalf of ECDF  
 
 13:30 -- Session 1  
 - **Synthesizing 3D Consistent Human Heads via 3DGS GANs**  
@@ -36,7 +36,9 @@ Gerhard Wunder, Freie Universität Berlin.
 
 ## March 10th 
 
-10:00 -- t.b.c. Hands-on session / TinyML tutorial
+13:00 -- Welcome  
+
+13:25 -- Opening Words  -- Emmanuel Baccelli, on behalf of ECDF  
 
 13:30 -- Session 3  
 
