@@ -4,17 +4,16 @@ nav: true
 ---
 
 # Workshop Program
-Confirmed speakers and tentative talk titles are as follows.
 
 ## March 9th 
 
 13:00 -- Welcome  
 
-13:25 -- Opening Words  -- Emmanuel Baccelli, on behalf of ECDF  
+13:25 -- Opening Words  -- Emmanuel Baccelli, on behalf of ECDF & Inria Berlin  
 
 13:30 -- Session 1  
 - **Synthesizing 3D Consistent Human Heads via 3DGS GANs**  
-Florian Barthel, Humboldt-Universität zu Berlin.
+Florian Barthel, Humboldt-Universität zu Berlin & Fraunhofer HHI.
 - **Capturing Polysemanticity with PRISM**  
 Laura Kopf, Technische Universität Berlin.  
 - **Fusion-based RAM Optimizations for TinyML**  
@@ -38,7 +37,7 @@ Gerhard Wunder, Freie Universität Berlin.
 
 13:00 -- Welcome  
 
-13:25 -- Opening Words  -- Emmanuel Baccelli, on behalf of ECDF  
+13:25 -- Opening Words  -- Emmanuel Baccelli, on behalf of ECDF & Inria Berlin  
 
 13:30 -- Session 3  
 
