@@ -16,7 +16,7 @@ nav: true
 Florian Barthel, Humboldt-Universität zu Berlin & Fraunhofer HHI.
 - **Capturing Polysemanticity with PRISM**  
 Laura Kopf, Technische Universität Berlin.  
-- **Fusion-based RAM Optimizations for TinyML**  
+- **[Fusion-based RAM Optimizations for TinyML](/slides-2026/1-3-Huang.pdf)**  
 Zhaolan Huang, Freie Universität Berlin & Inria Berlin.  
 
 15:00 -- Coffee Break  
@@ -27,7 +27,7 @@ Guillermo Gallego, TU Berlin & ECDF.
 - **Correcting Misinterpretations of Additive Models**  
 Benedict Clark, National Metrology Institute (PTB).  
 - **Rethinking Explanation Evaluation under the Retraining Scheme**  
-Gerhard Wunder, Freie Universität Berlin.  
+Yi Cai and Gerhard Wunder, Freie Universität Berlin.  
 
 17:00 -- Wrap-up  
 
@@ -53,7 +53,7 @@ Hanno Gottschalk, Technische Universität Berlin.
 15:30 -- Session 4  
 
 - **tinyML Multiobjective Optimization for Urban Infrastructure Applications**  
-Felix Bießmann, BHT & ECDF.
+Vipin Singh and Felix Bießmann, BHT & ECDF.
 - **IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants**  
 Vivek Chavan, Fraunhofer IPK & TU Berlin.
 - **Low-Rank Training and Low-Rank Adapters**  
