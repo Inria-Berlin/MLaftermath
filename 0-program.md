@@ -26,7 +26,7 @@ Zhaolan Huang, Freie Universität Berlin & Inria Berlin.
 15:30 -- Session 2  
 - **[Learning Depth with Event Cameras (DERD-Net)](/slides-2026/2-1-Gallego.pdf)**  
 Guillermo Gallego, TU Berlin & ECDF.
-- **Correcting Misinterpretations of Additive Models**  
+- **[Correcting Misinterpretations of Additive Models](/slides-2026/2-2-Clark.pdf)**  
 Benedict Clark, National Metrology Institute (PTB).  
 - **[Rethinking Explanation Evaluation under the Retraining Scheme](/slides-2026/2-3-Cai-Wunder.pdf)**  
 Yi Cai and Gerhard Wunder, Freie Universität Berlin.  
