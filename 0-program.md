@@ -3,7 +3,7 @@ title: Program
 nav: true
 ---
 
-# Workshop Program
+# Program
 
 (Click on the presentation title to see the slides).
 
@@ -43,7 +43,7 @@ Yi Cai and Gerhard Wunder, Freie Universität Berlin.
 
 13:30 -- Session 3  
 
-- **Efficient Quadratic Corrections for Frank-Wolfe Algorithms**  
+- **[Efficient Quadratic Corrections for Frank-Wolfe Algorithms](/slides-2026/3-1-Pokutta.pdf)**  
 Sebastian Pokutta, Zuse-Institut Berlin.
 - **[Collapsing Taylor Mode Automatic Differentiation](/slides-2026/3-2-Siebert.pdf)**  
 Tim Siebert, Humboldt-Universität zu Berlin.  
