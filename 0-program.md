@@ -14,7 +14,7 @@ nav: true
 13:25 -- Opening Words  -- Emmanuel Baccelli, on behalf of ECDF & Inria Berlin  
 
 13:30 -- Session 1  
-- **Synthesizing 3D Consistent Human Heads via 3DGS GANs**  
+- **[Synthesizing 3D Consistent Human Heads via 3DGS GANs](/slides-2026/1-1-Barthel.pdf)**  
 Florian Barthel, Humboldt-Universität zu Berlin & Fraunhofer HHI.
 - **Capturing Polysemanticity with PRISM**  
 Laura Kopf, Technische Universität Berlin.  
