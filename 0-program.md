@@ -58,7 +58,7 @@ Hanno Gottschalk, Technische Universität Berlin.
 Vipin Singh and Felix Bießmann, BHT & ECDF.
 - **IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants**  
 Vivek Chavan, Fraunhofer IPK & TU Berlin.
-- **Low-Rank Training and Low-Rank Adapters**  
+- **[Low-Rank Training and Low-Rank Adapters](/slides-2026/4-3-Klein.pdf)**  
 Timon Klein, Otto-von-Guericke-Universität Magdeburg.  
 
 17:00 -- Wrap-up  
