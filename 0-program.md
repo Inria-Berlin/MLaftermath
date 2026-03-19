@@ -16,7 +16,7 @@ nav: true
 13:30 -- Session 1  
 - **[Synthesizing 3D Consistent Human Heads via 3DGS GANs](/slides-2026/1-1-Barthel.pdf)**  
 Florian Barthel, Humboldt-Universität zu Berlin & Fraunhofer HHI.
-- **Capturing Polysemanticity with PRISM**  
+- **[Capturing Polysemanticity with PRISM](/slides-2026/1-2-Kopf.pdf)**  
 Laura Kopf, Technische Universität Berlin.  
 - **[Fusion-based RAM Optimizations for TinyML](/slides-2026/1-3-Huang.pdf)**  
 Zhaolan Huang, Freie Universität Berlin & Inria Berlin.  
