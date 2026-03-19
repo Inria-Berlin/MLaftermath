@@ -31,9 +31,7 @@ Benedict Clark, National Metrology Institute (PTB).
 - **[Rethinking Explanation Evaluation under the Retraining Scheme](/slides-2026/2-3-Cai-Wunder.pdf)**  
 Yi Cai and Gerhard Wunder, Freie Universität Berlin.  
 
-17:00 -- Wrap-up  
-
-(Rooms are available until 18:00 for further chats & networking)  
+17:00 -- Wrap-up. (Rooms available until 18:00 for networking)  
 
 ## March 10th 
 
@@ -61,9 +59,8 @@ Vivek Chavan, Fraunhofer IPK & TU Berlin.
 - **[Low-Rank Training and Low-Rank Adapters](/slides-2026/4-3-Klein.pdf)**  
 Timon Klein, Otto-von-Guericke-Universität Magdeburg.  
 
-17:00 -- Wrap-up  
+17:00 -- Closing words. (Rooms available until 18:00 for networking)  
 
-(Rooms are available until 18:00 for further chats & networking)  
 
 <br />
 <br />
