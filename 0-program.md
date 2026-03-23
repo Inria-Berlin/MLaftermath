@@ -54,7 +54,7 @@ Hanno Gottschalk, Technische Universität Berlin.
 
 - **[tinyML Multiobjective Optimization for Urban Infrastructure Applications](/slides-2026/4-1-Singh-Biessmann.pdf)**  
 Vipin Singh and Felix Bießmann, BHT & ECDF.
-- **IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants**  
+- **[IndEgo: A Dataset of Industrial Scenarios and Collaborative Work for Egocentric Assistants](/slides-2026/4-2-Vivek.pdf)**  
 Vivek Chavan, Fraunhofer IPK & TU Berlin.
 - **[Low-Rank Training and Low-Rank Adapters](/slides-2026/4-3-Klein.pdf)**  
 Timon Klein, Otto-von-Guericke-Universität Magdeburg.  
